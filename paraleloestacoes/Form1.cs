@@ -21,12 +21,12 @@ namespace paraleloestacoes
         {
             Pic_primeiro.Image = Properties.Resources.fasfsafasfasfsa;
 			// Busca a imagem do resources
-			Txt_primeiro.Text = "Bad"; // Muda o texto do TextBox
+			Txt_primeiro.Text = "palmeiras sem mundial"; // Muda o texto do TextBox
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+           
         }
 
         private void Pic_primeiro_Click(object sender, EventArgs e)

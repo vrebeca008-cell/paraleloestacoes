@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\Pica\\paraleloestacoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|c:\\users\\db\\desktop\\pica\\paraleloestacoes\\paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|solutionrelative:paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|C:\\Users\\DB\\Desktop\\Pica\\paraleloestacoes\\paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|solutionrelative:paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|c:\\users\\db\\desktop\\pica\\paraleloestacoes\\paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63C5357-55A5-432B-9855-1440BBD4C61C}|paraleloestacoes\\paraleloestacoes.csproj|solutionrelative:paraleloestacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,21 +21,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Pica\\paraleloestacoes\\paraleloestacoes\\Form1.cs",
               "RelativeDocumentMoniker": "paraleloestacoes\\Form1.cs",
               "ToolTip": "C:\\Users\\DB\\Desktop\\Pica\\paraleloestacoes\\paraleloestacoes\\Form1.cs",
               "RelativeToolTip": "paraleloestacoes\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAewBUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T00:02:55.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Pica\\paraleloestacoes\\paraleloestacoes\\Form1.cs",
               "RelativeDocumentMoniker": "paraleloestacoes\\Form1.cs",
