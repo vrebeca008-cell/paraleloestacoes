@@ -9,3 +9,14 @@ C:\Users\DB\Desktop\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes
 C:\Users\DB\Desktop\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.exe
 C:\Users\DB\Desktop\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.pdb
 C:\Users\DB\Desktop\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.exe.config
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\bin\Debug\paraleloestacoes.exe.config
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\bin\Debug\paraleloestacoes.exe
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\bin\Debug\paraleloestacoes.pdb
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.exe.config
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.Form1.resources
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.Properties.Resources.resources
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.exe
+C:\Users\DB\Desktop\Pica\paraleloestacoes\paraleloestacoes\obj\Debug\paraleloestacoes.pdb

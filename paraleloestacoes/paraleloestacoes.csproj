@@ -76,7 +76,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\fdsadsadas" />
     <None Include="Resources\image_1.webp" />
+    <None Include="Resources\sadsadsadas.webp" />
+    <None Include="Resources\Sou foda.webp" />
     <None Include="Resources\unnamed-14-7.webp" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +87,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsadsadsadsa.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fasfsafasfasfsa.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
